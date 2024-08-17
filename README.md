@@ -2,25 +2,6 @@
 
 This repository contains a collection of Python scripts that demonstrate various functionalities of the NumPy library. Each script is designed to teach specific concepts related to NumPy arrays and operations.
 
-## Table of Contents
-
-1. [Numpy_1_1D_2D_and_3D_array.py](#numpy_1_1d_2d_and_3d_arraypy)
-2. [Numpy_2_Zeros_Array.py](#numpy_2_zeros_arraypy)
-3. [Numpy_3_Ones_Array.py](#numpy_3_ones_arraypy)
-4. [Numpy_4_Full_Array.py](#numpy_4_full_arraypy)
-5. [Numpy_5_Random_Function.py](#numpy_5_random_functionpy)
-6. [Numpy_6_Linspace_Function.py](#numpy_6_linspace_functionpy)
-7. [Numpy_7_Empty_Array_Function.py](#numpy_7_empty_array_functionpy)
-8. [Numpy_8_Eye_Function.py](#numpy_8_eye_functionpy)
-9. [Numpy_9_Identity_Array_Function.py](#numpy_9_identity_array_functionpy)
-10. [Numpy_10_Zeros_Ones_Full_like_arrays.py](#numpy_10_zeros_ones_full_like_arrayspy)
-11. [Numpy_11_Diagonal_Array_Function.py](#numpy_11_diagonal_array_functionpy)
-12. [Numpy_12_Transpose_Function.py](#numpy_12_transpose_functionpy)
-13. [Numpy_13_Unary_Operators.py](#numpy_13_unary_operatorspy)
-14. [Numpy_14_Vstack_Hstack.py](#numpy_14_vstack_hstackpy)
-15. [Numpy_15_Array_Indexing.py](#numpy_15_array_indexingpy)
-16. [Numpy_16_Any_All_Function.py](#numpy_16_any_all_functionpy)
-
 ## Script Descriptions
 
 ### Numpy_1_1D_2D_and_3D_array.py
